@@ -13,7 +13,7 @@ Clinical guidelines for antiseizure medication selection and management across a
 | Section | Description |
 |---------|-------------|
 | [1. Introduction](docs/01-introduction.md) | Purpose, terminology, general principles |
-| [2. Seizure Classification](docs/02-seizure-classification.md) | ILAE 2017 classification, epilepsy syndromes |
+| [2. Seizure Classification](docs/02-seizure-classification.md) | ILAE 2025/2017 classification, epilepsy syndromes |
 | [3. First-Line ASM Selection](docs/03-first-line-selection.md) | ASM choice by seizure type with evidence levels |
 | [4. Special Populations](docs/04-special-populations.md) | Pregnancy, elderly, renal/hepatic impairment, comorbidities |
 | [5. Status Epilepticus](docs/05-status-epilepticus.md) | Emergency treatment protocol with dosing |
@@ -33,7 +33,7 @@ Clinical guidelines for antiseizure medication selection and management across a
 
 | Seizure Type | First Choice | Alternatives | Avoid |
 |--------------|--------------|--------------|-------|
-| **Focal** | Lamotrigine, Levetiracetam | OXC, CBZ, LCM, ZNS | - |
+| **Focal** | Lamotrigine, Levetiracetam | OXC, ESL, CBZ, LCM, ZNS | - |
 | **Focal (elderly)** | Lamotrigine, Levetiracetam, Gabapentin | Lacosamide | PHT, PB, CBZ |
 | **GTC** | Valproate (males), LEV/LTG (females) | TPM, ZNS, PER | - |
 | **Absence** | Ethosuximide, Valproate | Lamotrigine | CBZ, GBP, PHT, OXC |
@@ -48,7 +48,7 @@ Clinical guidelines for antiseizure medication selection and management across a
 | Risk Level | ASM | MCM Rate |
 |------------|-----|----------|
 | **Lowest** | Levetiracetam, Lamotrigine | 2-3% |
-| **Low** | Oxcarbazepine | 2-3% |
+| **Low** | Oxcarbazepine, Eslicarbazepine | 2-3% (limited data for ESL) |
 | **Moderate** | Carbamazepine | 4-6% |
 | **High** | Topiramate | 3-5% + 2.5x ID risk |
 | **Highest** | Valproate | 5-15% + 30-40% NDD |
@@ -67,7 +67,8 @@ Clinical guidelines for antiseizure medication selection and management across a
 
 ## Evidence Sources
 
-- **ILAE** - International League Against Epilepsy Guidelines
+- **ILAE 2025** - Updated Classification of Epileptic Seizures (Epilepsia 2025)
+- **AAN/AES/SMFM 2024** - Joint Practice Guideline on ASM Use During Pregnancy
 - **AAN/AES** - American Academy of Neurology / American Epilepsy Society (2018, reaffirmed 2024)
 - **NICE NG217** - UK National Institute for Health and Care Excellence (2022, reaffirmed 2025)
 - **SANAD II Trial** - Lamotrigine vs levetiracetam for focal epilepsy (Lancet 2021)

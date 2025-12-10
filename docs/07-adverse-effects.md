@@ -13,6 +13,7 @@
 | **Valproate** | Weight gain, tremor, hair loss, GI upset | Hepatotoxicity, pancreatitis, teratogenicity | LFTs, ammonia, CBC |
 | **Carbamazepine** | Dizziness, diplopia, ataxia, hyponatremia | SJS/TEN (HLA-B*1502), aplastic anemia | HLA-B*1502 (Asian), CBC, Na |
 | **Oxcarbazepine** | Hyponatremia, dizziness, fatigue | SJS/TEN | Sodium levels |
+| **Eslicarbazepine** | Hyponatremia, dizziness, somnolence, diplopia | SJS/TEN (HLA-B*15:02) | Sodium levels, HLA-B*15:02 (Asian) |
 | **Phenytoin** | Gingival hyperplasia, hirsutism, ataxia | SJS/TEN, osteoporosis, cerebellar atrophy | Drug level, vitamin D |
 | **Phenobarbital** | Sedation, cognitive impairment | Dependence, paradoxical hyperactivity (children) | Drug level |
 | **Topiramate** | Cognitive slowing, paresthesias, weight loss | Kidney stones, metabolic acidosis, glaucoma | Bicarbonate, renal function |
@@ -34,11 +35,12 @@
 |-----|------------|------------|----------|
 | **Carbamazepine** | HLA-B*15:02 | Han Chinese, Thai, Malaysian, Filipino, Indian | SJS/TEN |
 | **Oxcarbazepine** | HLA-B*15:02 | Same as above | SJS/TEN |
+| **Eslicarbazepine** | HLA-B*15:02 | Same as above | SJS/TEN |
 | **Phenytoin** | HLA-B*15:02 | Same as above | SJS/TEN |
 | **Carbamazepine** | HLA-A*31:01 | European, Japanese | DRESS, SJS/TEN, MPE |
 | **Lamotrigine** | HLA-B*15:02 | Han Chinese (weaker association) | SJS/TEN |
 
-> **Recommendation:** HLA-B*15:02 testing before carbamazepine/oxcarbazepine/phenytoin in at-risk populations.
+> **Recommendation:** HLA-B*15:02 testing before carbamazepine/oxcarbazepine/eslicarbazepine/phenytoin in at-risk populations.
 
 ---
 
@@ -50,7 +52,8 @@
 | Carbamazepine | Levetiracetam | Zonisamide |
 | Gabapentin | Lacosamide | Felbamate |
 | Pregabalin | Oxcarbazepine | |
-| Vigabatrin | Phenytoin | |
+| Vigabatrin | Eslicarbazepine | |
+| | Phenytoin | |
 | | Brivaracetam | |
 
 ---
@@ -64,6 +67,7 @@
 | Gabapentin | Oxcarbazepine | Phenytoin (chronic) |
 | Lacosamide | | Benzodiazepines |
 | Brivaracetam | | |
+| Eslicarbazepine | | |
 
 ---
 

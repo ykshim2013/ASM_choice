@@ -12,6 +12,7 @@
 | **Level C** (May consider) | **Levetiracetam** | Rapid titration possible; watch for psychiatric effects |
 | **Level C** (May consider) | **Zonisamide** | Weight-neutral; once-daily dosing |
 | Alternative | Oxcarbazepine | Less enzyme induction than carbamazepine |
+| Alternative | Eslicarbazepine | Once-daily dosing; similar to OXC; HLA-B*15:02 screening |
 | Alternative | Carbamazepine | Effective but enzyme inducer |
 | Alternative | Lacosamide | Good tolerability; cardiac monitoring needed |
 
@@ -42,7 +43,7 @@
 |-----------|------------|-------------|
 | **Infants (<1 year)** | Levetiracetam | Phenobarbital, Oxcarbazepine |
 | **Children (1-12 years)** | Oxcarbazepine, Levetiracetam | Lamotrigine, Carbamazepine |
-| **Adolescents (12-18 years)** | Lamotrigine, Levetiracetam | Oxcarbazepine, Lacosamide |
+| **Adolescents (12-18 years)** | Lamotrigine, Levetiracetam | Oxcarbazepine, Eslicarbazepine, Lacosamide |
 
 ---
 
@@ -110,7 +111,7 @@ When seizure type cannot be determined:
 
 | Seizure Type | First Choice | Alternatives | Avoid |
 |--------------|--------------|--------------|-------|
-| **Focal** | Lamotrigine, Levetiracetam | OXC, CBZ, LCM, ZNS | - |
+| **Focal** | Lamotrigine, Levetiracetam | OXC, ESL, CBZ, LCM, ZNS | - |
 | **Focal (elderly)** | Lamotrigine, Levetiracetam, Gabapentin | Lacosamide | PHT, PB, CBZ |
 | **GTC** | Valproate (males), LEV/LTG (females) | TPM, ZNS, PER | - |
 | **Absence** | Ethosuximide, Valproate | Lamotrigine | CBZ, GBP, PHT, OXC |

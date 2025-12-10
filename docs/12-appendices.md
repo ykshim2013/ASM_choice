@@ -97,7 +97,7 @@
 | Brivaracetam | Briviact |
 | Carbamazepine | Tegretol, Carbatrol, Epitol |
 | Clobazam | Onfi, Sympazan |
-| Eslicarbazepine | Aptiom |
+| Eslicarbazepine | Aptiom (US), Zebinix (EU) |
 | Ethosuximide | Zarontin |
 | Felbamate | Felbatol |
 | Gabapentin | Neurontin, Gralise |
@@ -142,6 +142,7 @@
 | VPA | 250 mg BID | 750 mg BID | 60 mg/kg/day |
 | CBZ | 200 mg BID | 600 mg BID | 1600 mg/day |
 | OXC | 300 mg BID | 900 mg BID | 2400 mg/day |
+| ESL | 400 mg daily | 1000 mg daily | 1600 mg/day |
 | LCM | 50 mg BID | 150 mg BID | 400 mg/day |
 | TPM | 25 mg daily | 150 mg BID | 400 mg/day |
 | ZNS | 100 mg daily | 300 mg daily | 600 mg/day |

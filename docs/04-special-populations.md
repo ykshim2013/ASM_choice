@@ -29,6 +29,7 @@
 | **Lowest Risk** | Levetiracetam | 2-3% | Preferred; confirmed safe in 2024 Stanford study |
 | **Lowest Risk** | Lamotrigine | 2-3% | Preferred; no NDD risk increase |
 | **Low Risk** | Oxcarbazepine | 2-3% | Alternative option per 2024 guidelines |
+| **Low Risk** | Eslicarbazepine | Limited data | Similar profile to OXC; use with caution |
 | **Moderate Risk** | Carbamazepine | 4-6% | Neural tube defects, 1.25x autism risk |
 | **High Risk** | Phenobarbital | 4.4% cardiac | Highest cardiac malformation risk |
 | **High Risk** | Topiramate | 3-5% | Oral clefts; 2.5x intellectual disability |
@@ -148,6 +149,7 @@ POSTPARTUM
 | **Phenobarbital** | Sedation, cognitive impairment, enzyme induction, falls risk | LEV, LTG |
 | **Carbamazepine** | Hyponatremia (SIADH), cardiac effects, enzyme induction, drug interactions | LTG, LCM |
 | **Oxcarbazepine** | Higher hyponatremia risk than CBZ | LTG, LEV |
+| **Eslicarbazepine** | Hyponatremia risk (similar to OXC) | LTG, LEV |
 | **Topiramate** | Cognitive slowing, word-finding difficulty | LEV, LTG |
 | **Valproate** | Tremor (mimics Parkinson's), weight gain, thrombocytopenia, encephalopathy | LEV, LTG |
 
@@ -172,6 +174,7 @@ POSTPARTUM
 | **Lacosamide** | 40% unchanged | No change | No change | Max 300 mg/day |
 | **Topiramate** | 70% unchanged | 50% dose | 50% dose | 50% dose |
 | **Brivaracetam** | 8% unchanged | No change | No change | No change |
+| **Eslicarbazepine** | 67% unchanged | No change | Max 800 mg/day | Max 600 mg/day |
 | **Cenobamate** | Primarily renal | Caution | Caution | Limited data |
 | **Ganaxolone** | Hepatic | No adjustment | No adjustment | No adjustment |
 
@@ -201,6 +204,7 @@ POSTPARTUM
 | **Lacosamide** | Moderate | Use with caution; max 300 mg/day in severe |
 | **Brivaracetam** | Partial | Reduce dose 50% in severe impairment |
 | **Topiramate** | Partial | Increased levels; use lower doses |
+| **Eslicarbazepine** | Partial | Caution in moderate; avoid in severe |
 
 ### 4.4.2 ASMs to Avoid in Hepatic Impairment
 
@@ -290,6 +294,7 @@ AVOID IF:
 | Carbamazepine | Levetiracetam | Zonisamide |
 | Gabapentin | Lacosamide | Felbamate |
 | Pregabalin | Oxcarbazepine | |
+| | Eslicarbazepine | |
 | Vigabatrin | Phenytoin | |
 | Perampanel | Brivaracetam | |
 | Cenobamate | | |

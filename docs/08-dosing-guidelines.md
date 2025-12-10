@@ -14,6 +14,7 @@
 | **Valproate** | 250 mg BID | ↑250 mg every 3-7 days | 500-1000 mg BID | 60 mg/kg/day |
 | **Carbamazepine** | 100-200 mg BID | ↑200 mg/day weekly | 400-600 mg BID | 1600 mg/day |
 | **Oxcarbazepine** | 300 mg BID | ↑300 mg/day weekly | 600-1200 mg BID | 2400 mg/day |
+| **Eslicarbazepine** | 400 mg daily | ↑400 mg weekly | 800-1200 mg daily | 1600 mg/day |
 | **Phenytoin** | 100 mg TID or 300 mg QHS | Adjust per levels | Per therapeutic level | Per level |
 | **Lacosamide** | 50 mg BID | ↑50 mg BID weekly | 100-200 mg BID | 400 mg/day |
 | **Topiramate** | 25 mg daily | ↑25-50 mg/day weekly | 100-200 mg BID | 400 mg/day |
@@ -98,6 +99,7 @@
 | **Topiramate** | 50% dose | 50% dose | 50% dose |
 | **Lacosamide** | No change | No change | Max 300 mg/day |
 | **Brivaracetam** | No change | No change | No change |
+| **Eslicarbazepine** | No change | Max 800 mg/day | Max 600 mg/day |
 
 ---
 
@@ -111,6 +113,7 @@
 | **Lacosamide** | No change | Max 300 mg/day | Max 300 mg/day |
 | **Lamotrigine** | No change | 50% dose | 25% dose |
 | **Carbamazepine** | Use with caution | Avoid | Avoid |
+| **Eslicarbazepine** | No change | Use with caution | Avoid |
 | **Valproate** | Avoid | Avoid | Contraindicated |
 
 ---
